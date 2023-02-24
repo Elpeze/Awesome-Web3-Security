@@ -1,4 +1,6 @@
 # Awesome Web3 Security
+
+/*
 ![footer_logo (1)](https://user-images.githubusercontent.com/74833625/213894525-4fe9b704-e1f0-4158-b645-f0fc41733d4c.png)
 <br> <br>
 
@@ -34,5 +36,8 @@
 
 
 <a href="https://gopluslabs.io/">GoPlus</a> is working as the "security infrastructure" for web3 by providing open, permissionless, user-driven Security Services. GoPlus is building on the Security data infrastructure and Security Service platform, making a safer web3 Ecosystem.
+
+
+*/
 
 
